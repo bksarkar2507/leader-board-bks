@@ -158,3 +158,9 @@ hr{
 .course-duration i{
     margin-right: 5px;
 }
+.yellow-color{
+    color: #FFC014;
+}
+.empty-color{
+    color: #AEAEAE;
+}
