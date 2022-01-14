@@ -113,6 +113,10 @@ hr{
 .blog-desc p{
     margin-top: 6px;
 }
+.blog-desc p a{
+    text-decoration: none;
+    color: #562EFF;
+}
 .blog-thumbnail img{
     width: 224px;
     height: 127px;
